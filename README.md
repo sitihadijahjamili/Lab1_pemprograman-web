@@ -7,3 +7,5 @@ Kemudian atur atribut paragraf, dan amati perubahannya. simpan kembali dan amati
 ![WEB 3](https://user-images.githubusercontent.com/56400200/113562934-2566f380-9631-11eb-9e7b-c8d9e0b6bf01.PNG)
 selanjutnya di lihat seperti di bawah ini
 ![WEB 4](https://user-images.githubusercontent.com/56400200/113563586-251b2800-9632-11eb-9cbc-8711379c0a08.PNG)
+![WEB 4(1)](https://user-images.githubusercontent.com/56400200/113563967-c6a27980-9632-11eb-8cae-c535ab9b28f5.PNG)
+Langkah selanjutnya yaitu tambahkan judul dengan cara di bawah ini. Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser
