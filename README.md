@@ -9,3 +9,6 @@ selanjutnya di lihat seperti di bawah ini
 ![WEB 4](https://user-images.githubusercontent.com/56400200/113563586-251b2800-9632-11eb-9cbc-8711379c0a08.PNG)
 ![WEB 4(1)](https://user-images.githubusercontent.com/56400200/113563967-c6a27980-9632-11eb-8cae-c535ab9b28f5.PNG)
 Langkah selanjutnya yaitu tambahkan judul dengan cara di bawah ini. Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser
+![WEB 5](https://user-images.githubusercontent.com/56400200/113564344-6d871580-9633-11eb-834f-4ed87bc0a786.PNG)
+
+selanjutnya yaitu menamai html dengan warna
