@@ -22,4 +22,4 @@ Selanjutnya untuk menyisipkan gambar bisa di lihat di bawah ini
 Dan ini hasil akhirnya.
 ![WEB 9](https://user-images.githubusercontent.com/56400200/113566371-c60be200-9636-11eb-9595-554ad531b533.PNG)
 ![WEB 1O(1)](https://user-images.githubusercontent.com/56400200/113566529-0a977d80-9637-11eb-8df4-3af7acbc2312.PNG)
-Terimakasih, Mohon maaf bila banyak kekurangannya.
+Terimakasih, Mohon maaf bila banyak kekurangannya
