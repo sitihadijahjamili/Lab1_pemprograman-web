@@ -10,5 +10,7 @@ selanjutnya di lihat seperti di bawah ini
 ![WEB 4(1)](https://user-images.githubusercontent.com/56400200/113563967-c6a27980-9632-11eb-8cae-c535ab9b28f5.PNG)
 Langkah selanjutnya yaitu tambahkan judul dengan cara di bawah ini. Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser
 ![WEB 5](https://user-images.githubusercontent.com/56400200/113564344-6d871580-9633-11eb-834f-4ed87bc0a786.PNG)
+![WEB 5(1)](https://user-images.githubusercontent.com/56400200/113564711-028a0e80-9634-11eb-8a85-00f072721665.PNG)
+selanjutnya yaitu untuk memformat teks html dengan warna
 
-selanjutnya yaitu menamai html dengan warna
+Selanjutnya untuk menyisipkan gambar bisa di lihat di bawah ini
