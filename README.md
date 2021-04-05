@@ -17,4 +17,9 @@ selanjutnya yaitu untuk memformat teks html dengan warna
 Selanjutnya untuk menyisipkan gambar bisa di lihat di bawah ini
 ![WEB 7](https://user-images.githubusercontent.com/56400200/113565393-21d56b80-9635-11eb-9782-3952cdfb586f.PNG)
 ![WEB 7(1)](https://user-images.githubusercontent.com/56400200/113565631-7678e680-9635-11eb-8c19-39e58c375915.PNG)
+![WEB 8](https://user-images.githubusercontent.com/56400200/113565833-db344100-9635-11eb-8ecf-6ed62f0dc347.PNG)
 
+Dan ini hasil akhirnya
+
+
+Terimakasih, Mohon maaf bila banyak kekurangannya.
