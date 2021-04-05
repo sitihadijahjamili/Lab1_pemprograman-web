@@ -16,4 +16,5 @@ selanjutnya yaitu untuk memformat teks html dengan warna
 ![WEB 6(1)](https://user-images.githubusercontent.com/56400200/113565247-e89cfb80-9634-11eb-8217-596c567d9eff.PNG)
 Selanjutnya untuk menyisipkan gambar bisa di lihat di bawah ini
 ![WEB 7](https://user-images.githubusercontent.com/56400200/113565393-21d56b80-9635-11eb-9782-3952cdfb586f.PNG)
+![WEB 7(1)](https://user-images.githubusercontent.com/56400200/113565631-7678e680-9635-11eb-8c19-39e58c375915.PNG)
 
