@@ -12,5 +12,6 @@ Langkah selanjutnya yaitu tambahkan judul dengan cara di bawah ini. Simpan perub
 ![WEB 5](https://user-images.githubusercontent.com/56400200/113564344-6d871580-9633-11eb-834f-4ed87bc0a786.PNG)
 ![WEB 5(1)](https://user-images.githubusercontent.com/56400200/113564711-028a0e80-9634-11eb-8a85-00f072721665.PNG)
 selanjutnya yaitu untuk memformat teks html dengan warna
+![WEB 6](https://user-images.githubusercontent.com/56400200/113565084-a07dd900-9634-11eb-91f5-1dfa80bcda58.PNG)
 
 Selanjutnya untuk menyisipkan gambar bisa di lihat di bawah ini
